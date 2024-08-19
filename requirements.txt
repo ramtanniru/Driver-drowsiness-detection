@@ -1,0 +1,7 @@
+opencv-python
+dlib
+scipy.spatial
+numpy>=1.23.0
+imutils
+pygame
+threading
